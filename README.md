@@ -22,6 +22,8 @@ fork from [yolks](https://github.com/pterodactyl/yolks) with a few small tweaks:
     * `ghcr.io/lhridder/yolks:java_19`
   * [`java21`](https://github.com/lhridder/yolks/tree/master/java/21)
     * `ghcr.io/lhridder/yolks:java_21`
+  * [`java23`](https://github.com/lhridder/yolks/tree/master/java/23)
+    * `ghcr.io/lhridder/yolks:java_23`
 * [`nodejs`](https://github.com/lhridder/yolks/tree/master/nodejs)
   * [`node12`](https://github.com/lhridder/yolks/tree/master/nodejs/12)
     * `ghcr.io/lhridder/yolks:nodejs_12`
